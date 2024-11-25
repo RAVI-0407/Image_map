@@ -68,6 +68,7 @@ Imagemap02.html
 
 dr.html
 
+<html>
 <style>
     header{
         background-color:moccasin;
@@ -93,9 +94,11 @@ dr.html
 The clinic caters to a wide range of eye health needs, including cataract surgeries, glaucoma management, LASIK and refractive surgeries, retina treatments, corneal transplants, and pediatric eye care. Dr. Agarwal's Eye Clinic emphasizes personalized patient care, ensuring each treatment plan is tailored to individual needs. It also conducts training programs for ophthalmologists and invests in continuous research to push the boundaries of eye care innovation. Renowned for its quality and expertise, it remains a trusted name for patients seeking world-class vision care solutions.
     </P>
 </body>
+</html>
 
 GK pet.html
 
+<html>
 <style>
     header{
         background-color:moccasin;
@@ -123,9 +126,11 @@ In addition to pets, these stores stock an extensive selection of pet care produ
 With knowledgeable staff and a commitment to providing healthy, well-cared-for animals, Ambur’s pet and fish shops serve as a one-stop solution for pet lovers. They often create a friendly atmosphere for customers to explore and learn about different pets, making them an integral part of the local community for animal care and companionship.
 </p>
 </body>
+</html>
 
 nr.html
 
+<html>
 <style>
     header{
         background-color:moccasin;
@@ -153,9 +158,11 @@ The kebabs at NR Hotel are equally impressive, featuring juicy, well-marinated p
 NR Hotel’s reputation for serving high-quality, authentic dishes has made it a favorite among locals and travelers alike. The combination of its inviting ambiance and affordable prices makes it a popular spot to savor these culinary delights.
 </p>
 </body>
+</html>
 
 rahamaniya.html
 
+<html>
 <style>
     header{
         background-color:moccasin;
@@ -181,9 +188,11 @@ rahamaniya.html
     Rahamaniya Biryani is cherished by locals and visitors alike for maintaining the traditional Ambur biryani legacy. It is a go-to spot for those seeking high-quality, flavorful biryani in a casual and welcoming dining atmosphere.
 </p>
 </body>
+</html>
 
 poorvika.html
 
+<html>
 <style>
     header{
         background-color:moccasin;
@@ -209,6 +218,7 @@ poorvika.html
 Poorvika is popular for its competitive pricing, attractive offers, and convenient financing options, making premium gadgets accessible to customers. The store is known for excellent customer service, knowledgeable staff, and a personalized shopping experience. Many branches also provide additional services such as device insurance, exchange offers, and extended warranties. With its combination of affordability and quality, Poorvika Mobile Shop has established itself as a trusted destination for tech enthusiasts.
 </p>
 </body>
+</html>
 
 '''
 # OUTPUT
