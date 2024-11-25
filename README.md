@@ -65,9 +65,9 @@ Imagemap02.html
 
 </html> 
 
-
+'''
 dr.html
-
+'''
 <html>
 <style>
     header{
@@ -95,9 +95,9 @@ The clinic caters to a wide range of eye health needs, including cataract surger
     </P>
 </body>
 </html>
-
+'''
 GK pet.html
-
+'''
 <html>
 <style>
     header{
@@ -127,9 +127,9 @@ With knowledgeable staff and a commitment to providing healthy, well-cared-for a
 </p>
 </body>
 </html>
-
+'''
 nr.html
-
+'''
 <html>
 <style>
     header{
@@ -159,9 +159,9 @@ NR Hotel’s reputation for serving high-quality, authentic dishes has made it a
 </p>
 </body>
 </html>
-
+'''
 rahamaniya.html
-
+'''
 <html>
 <style>
     header{
@@ -189,9 +189,9 @@ rahamaniya.html
 </p>
 </body>
 </html>
-
+'''
 poorvika.html
-
+'''
 <html>
 <style>
     header{
